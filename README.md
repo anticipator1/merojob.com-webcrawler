@@ -4,7 +4,7 @@
 
 *Displays the job categories to the user first so that user can only find the jobs related to their field\
 *Displays the "Job Title", "Job Company", "Job Address" and "Job Application date" of merojob.com job portal\ 
-*Saves the data in merojob.csv file in the same directory which we can open  in excel application\
+*Saves the data in merojob.csv file in the same directory which we can open  in excel application
 
 ##Use:
 
