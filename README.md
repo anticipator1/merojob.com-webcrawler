@@ -10,6 +10,6 @@
 
 *Type "python merojob.py" or "py merojob.py" .Type without using inverted commas(")\
 *Type the category number that is related to your job field and then press "Enter" button and wait for some seconds\
-
+![Screenshot (23)](https://user-images.githubusercontent.com/17209145/103299185-136b2880-4a24-11eb-8309-e651b0d32f94.png)
 
 *You can open the seperate "merojob.csv" file in excel for better display\
